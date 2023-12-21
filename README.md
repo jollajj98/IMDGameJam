@@ -8,7 +8,6 @@ With big dreams and a tight deadline, a team of videogame nerds join forces to c
 ## CHECKLIST
 
 -  [ ]  Unity installed [(QUICK GUIDE)](https://www.youtube.com/watch?v=NDvOADoYulg)
--  [ ]  Blender (?) installed
 -  [ ]  Sign up sheet filled in [(HERE)](https://docs.google.com/spreadsheets/d/1NgOhvGQDPLWcz1s4r6U5FxjoG-kjF1Cbv-2Bgdz1188/edit?usp=sharing)
 
 
@@ -31,5 +30,5 @@ It is now time to make something beautiful, to give that ugly Unity-default look
 ### 18-01-23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make make make  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Joelle)
 Today is the big day: we put together everything we've learned and jam. The teams have the whole day to work on their games. Joelle will be your "programmer's rubberduck", the one every game developer speaks to when there's a mysterious bug infecting their code. You can refer to her for all your game jam frustrations!
 
-### 18-01-23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrap up & play  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Melisa & Joelle)
+### 19-01-23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrap up & play  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Melisa & Joelle)
 Time to set up the IMD arcade and play everyone's games. We will have last minute feedback and help sessions during the morning, to give you time to wrap up Thursday's chaotic sprint.
