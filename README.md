@@ -8,6 +8,7 @@ With big dreams and a tight deadline, a team of videogame nerds join forces to c
 ## CHECKLIST
 
 -  [ ]  Unity installed [(QUICK GUIDE)](https://www.youtube.com/watch?v=NDvOADoYulg)
+-  [ ]  Blender installed [(HERE)](https://www.blender.org/download/)
 -  [ ]  Sign up sheet filled in [(HERE)](https://docs.google.com/spreadsheets/d/1NgOhvGQDPLWcz1s4r6U5FxjoG-kjF1Cbv-2Bgdz1188/edit?usp=sharing)
 
 
